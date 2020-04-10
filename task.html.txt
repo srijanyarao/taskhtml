@@ -1,0 +1,62 @@
+<html>
+    <head>
+        <title>sign in</title>
+        <link rel="stylesheet" href="first.css">
+        
+    </head>
+        <body>
+
+             <div class="sign-in">
+            
+                   <form>
+                       <h2>
+                           <table cellpading="9px" cellspacing="5px" style="width: 120%; height: 30px;">
+                            <tr>
+                                <td><img src="https://img.icons8.com/ios-filled/40/000000/education.png"/></td>
+                                <td>SIGNIN</td>
+                                <td><img src="https://img.icons8.com/ios-glyphs/40/000000/xbox-x.png"/></td>
+                            </tr>
+                            
+
+                           </table>
+                       </h2> 
+                       <table>
+                           <tr>
+                               <td>
+                                <input type="email" class="input-box" placeholder="mail@example">
+                               </td> 
+                               <td>
+                                   <i class="fa fa-envelope icon" aria-hidden="true"></i>
+                               </td>
+
+                           </tr>
+                           <tr>
+                               <td>
+                                <input type="password" class="input-box" placeholder="password">
+                               </td>
+                               <td>
+                                   <i class="fa fa-unlock-alt icon" aria-hidden="true"></i>
+                               </td>
+                           </tr>
+                        </table>
+                   </form>
+                   <button class="button">sign in</button>
+                   <br>
+                   <br><a href="">forgot your password?</a>&nbsp &nbsp &nbsp &nbsp &nbsp &nbsp <a href="">register?</a><br>
+                   <hr>
+                   <div class="social-or"style="position:relative;margin-top:15px;margin-bottom:8px;">
+                   <div class="social-or-bg" style="background-color:#c7c7c7;height:1px;"></div>
+                   <div class="social-or-txt" style="background:#fff;padding-left:120px;padding-right:15px;top:10px;position:absolute;left:43%;";>OR</div></div><br>
+                   <button type="button" class="button1">f</button>
+                   <br>
+                   <br>
+                   <button type="button" class="button2">g</button>
+                   <br>
+                   <br>
+                   <button type="button" class="button3">EPAMLOGIN</button>
+
+
+                </div>
+
+        </body>
+</html>
